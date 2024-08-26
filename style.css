@@ -392,6 +392,7 @@ html {
     font-weight: 400;
     font-size: 18px;
     padding: 10px;
+    text-align: center;
 }
 .contact-form{
     display: flex;
